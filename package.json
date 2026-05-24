@@ -15,7 +15,7 @@
   "dependencies": {
     "@vercel/blob": "^1.1.1",
     "drizzle-orm": "^0.36.4",
-    "next": "15.0.4",
+    "next": "^15.0.5",
     "pg": "^8.13.1",
     "react": "19.0.0",
     "react-dom": "19.0.0",
